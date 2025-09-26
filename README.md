@@ -1,4 +1,5 @@
-html>
+index.html
+<html>
    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,6 +18,7 @@ src="https://www.impawards.com/tv/posters/stranger_things_xlg.jpg=" />
  <a href="https://skatepark.org" target="_blank">Check out The Skatepark Project</a>
   </body>  
     </html>
+ style.css
 body {
     background-color:#FFFF00; 
     font-family: Arial, sans-serif;
